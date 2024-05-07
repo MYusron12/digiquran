@@ -14,12 +14,12 @@ const router = createRouter({
   history: createWebHistory(),
   routes: [
     {
-      path: '/',
+      path: '/digiquran',
       name: 'Home',
       component: AllSurat
     },
     {
-      path: '/:id',
+      path: '/digiquran/:id',
       name: 'SuratDetail',
       component: SuratDetail
     }
