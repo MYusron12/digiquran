@@ -3,7 +3,7 @@
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <h3 class="navbar-brand">
         <span>
-          <router-link to="/" class="custom-link">
+          <router-link to="/digiquran" class="custom-link">
             Digital Al-Quran</router-link>
         </span>
       </h3>
